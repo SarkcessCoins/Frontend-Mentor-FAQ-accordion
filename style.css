@@ -38,7 +38,7 @@ main {
   top: -5em;
   background-color: var(--White);
   width: 85%;
-  padding: 1.5em;
+  padding: clamp(2em, 3vw, 4em);
   border-radius: 0.8em;
 }
 .head-design {
@@ -46,7 +46,7 @@ main {
   flex-direction: row;
 }
 .head-design h1 {
-  padding-left: 1em;
+  padding-inline-start: 1em;
 }
 
 .section-titile {
