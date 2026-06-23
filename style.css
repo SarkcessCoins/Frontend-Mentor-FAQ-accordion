@@ -89,7 +89,7 @@ footer {
   display: block;
 }
 
-@media (min-width: 600em) {
+@media (min-width: 60em) {
   header {
     background-image: url(assets/images/background-pattern-desktop.svg);
   }
