@@ -20,7 +20,7 @@ body {
 }
 header {
   height: 40svh;
-  background-image: url(/assets/images/background-pattern-mobile.svg);
+  background-image: url(assets/images/background-pattern-mobile.svg);
   display: block;
   width: 100%;
   background-size: cover;
